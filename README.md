@@ -1,2 +1,2 @@
 # Fast-time-lapse
-Fast time lapse
+Install moviepy
