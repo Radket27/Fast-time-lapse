@@ -13,6 +13,6 @@ To run this program you should add arguments with picture sequence names, all pi
 python3 fast_time_lapse.py picture1.jpg picture2.jpg
 ```
 
-After running this program you can decide if you want to sort pictures by name or not (by default sorting is on).\
+After running this program you can decide if you want to sort pictures by name or not (by default sorting is enabled).\
 Then you can set the number of frames per second.\
 After that you can set the name of your time lapse video.
