@@ -18,7 +18,7 @@ def clip_make(name,fps,clip_name):
     """
     Create video
     """
-    from moviepy.editor import ImageSequenceClip, VideoFileClip
+    from moviepy import ImageSequenceClip, VideoFileClip
     video = ImageSequenceClip(name,fps)
     video.write_videofile(clip_name)
     return 0
